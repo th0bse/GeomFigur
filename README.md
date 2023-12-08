@@ -11,6 +11,8 @@ Alternativ kann unter Unix mit `./mvnw package` das Projekt gebaut und in ein
 *.jar File gepackt werden, das dann am selben Pfad wie das bereits fertig
 gebaute und gepackte *.jar File liegt.
 
+Analog kann das Selbe unter Windows mit `mvnw.cmd package` erreicht werden.
+
 Vorausgesetzt ist eine Installation von Java >= 17.
 
 
